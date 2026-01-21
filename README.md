@@ -1,4 +1,4 @@
-# 🔖 Save For Later - Chrome Extension
+# 🔖 Save For Later - Extensão para o Chrome
 
 Um gerenciador de links minimalista inspirado na função "Assistir mais tarde" do YouTube, desenvolvido como projeto de conclusão para o **CS50x, curso online de Harvard**.
 
@@ -37,13 +37,13 @@ Muitas pessoas utilizam a barra de favoritos do Chrome para salvar páginas que 
 ## 🎨 Escolhas de Design
 Durante o desenvolvimento, percebi que apenas salvar não era suficiente. A experiência do usuário (UX) exigia uma forma de gerenciar o conteúdo:
 1.  **Botão Delete Individual:** Adicionado para permitir que o usuário limpe a lista conforme termina suas leituras.
-2.  **Botão Universal:** Implementado para facilitar a limpeza total, economizando cliques.
+2.  **Botão Delete Universal:** Implementado para facilitar a limpeza total, economizando cliques.
 3.  **Segurança:** O botão de apagar tudo exige um **clique duplo**, evitando que o usuário perca seus links por acidente.
 
 ---
 
 ## 🧠 Aprendizado e Desafios
 Este projeto foi um marco importante na minha jornada de programação. Antes do CS50, minha experiência com HTML e JavaScript era limitada. 
-* **Superação:** Enfrentei dificuldades iniciais com manipulação de DOM e lógica assíncrona, mas através da documentação do Chrome e tutoriais, consegui implementar as funcionalidades desejadas.
+* **Superação:** Enfrentei dificuldades iniciais com manipulação de DOM e lógica assíncrona, mas através da documentação do Chrome e tutoriais, consegui implementar as funcionalidades desejadas e entender melhor como funciona a programação Web em HTML, CSS e JavaScript.
 * **Próximos Passos:** Com a base sólida do CS50, meu próximo objetivo é cursar o *CS50's Web Programming with Python and JavaScript*, me preparar para a disciplina de programação web na minha universidade e desenvolver mais projetos para alimentar meu Github.
 
