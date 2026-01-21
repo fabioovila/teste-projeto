@@ -1,0 +1,97 @@
+:root {
+    --harvard-crimson: #A51C30;
+    --harvard-black: #1E1E1E;
+    --light-gray: #F3F3F3;
+    --white: #FFFFFF;
+}
+
+body {
+    font-family: 'Segoe UI', Tahome, Geneva, Verdana, sans-serif;
+    background-color: var(--light-gray);
+    margin: 0;
+    padding: 15px;
+    min-width: 300px;
+}
+
+h3 {
+    color: var(--harvard-crimson);
+    text-align: center;
+    border-bottom: 2px solid var(--harvard-crimson);
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+button {
+    width: 100%;
+    margin-bottom: 8px;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#save-button {
+    background-color: var(--harvard-crimson);
+    color: var(--white);
+}
+
+#save-button:hover {
+    background-color: #821626;
+}
+
+#delete-all-button {
+    background-color: var(--harvard-black);
+    color: var(--light-gray);
+    font-size: 11px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 15px;
+}
+
+li {
+    background-color: white;
+    margin-bottom: 6px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-left: 4px solid var(--harvard-crimson);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+li a {
+    text-decoration: none;
+    color: var(--harvard-black);
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-right: 10px;
+    flex-grow: 1;
+}
+
+li a:hover {
+    color: var(--harvard-crimson);
+    text-decoration: underline;
+}
+
+.delete-item {
+    background-color: transparent;
+    color: #999;
+    border: 1px solid #ccc;
+    padding: 2px 6px;
+    width: auto;
+    font-size: 10px;
+    margin-bottom: 0;
+}
+
+.delete-item:hover {
+    background-color: #ff4d4d;
+    color: white;
+    border-color: #ff4d4d;
+}

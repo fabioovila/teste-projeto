@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name":"Read Later List - CS50",
+    "description": "Just as 'watch later' feature from YouTube, I implemented a 'Read Later List' Chrome Extension so people can save a webpage for later",
+    "version":"1.0",
+    "icons": {
+        "48": "RL_logo.png"
+    },
+    "action":{
+        "default_popup": "index.html",
+        "default_icon": "RL_logo.png"
+    },
+    "permissions": ["storage", "activeTab"]
+}
