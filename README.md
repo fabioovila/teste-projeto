@@ -1,4 +1,4 @@
-# 🔖 Save For Later - Extensão para o Chrome
+# 🔖 Save For Later - Extensão para o Chrome <img src="RL_logo.png">
 
 Um gerenciador de links minimalista inspirado na função "Assistir mais tarde" do YouTube, desenvolvido como projeto de conclusão para o **CS50x, curso online de Harvard**.
 
