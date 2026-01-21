@@ -4,8 +4,15 @@ Um gerenciador de links minimalista inspirado na função "Assistir mais tarde" 
 
 ---
 
+### 🔍 Como instalar localmente:
+1. Faça o download deste repositório.
+2. Abra o Chrome e acesse `chrome://extensions/`.
+3. Ative o **"Modo do desenvolvedor"** no canto superior direito.
+4. Clique em **"Carregar sem compactação"** e selecione a pasta do projeto.
 ## 💡 Inspiração
 Muitas pessoas utilizam a barra de favoritos do Chrome para salvar páginas que pretendem ler apenas uma vez, o que acaba poluindo a organização do navegador. Este projeto resolve esse problema oferecendo um espaço temporário e dedicado para links que você deseja acessar depois.
+
+---
 
 ## 🚀 Funcionalidades
 * **Salvar com um clique:** Captura automaticamente o título e a URL da aba ativa.
@@ -40,10 +47,3 @@ Este projeto foi um marco importante na minha jornada de programação. Antes do
 * **Superação:** Enfrentei dificuldades iniciais com manipulação de DOM e lógica assíncrona, mas através da documentação do Chrome e tutoriais, consegui implementar as funcionalidades desejadas.
 * **Próximos Passos:** Com a base sólida do CS50, meu próximo objetivo é cursar o *CS50's Web Programming with Python and JavaScript*, me preparar para a disciplina de programação web na minha universidade e desenvolver mais projetos para alimentar meu Github.
 
----
-
-### 🔍 Como instalar localmente:
-1. Faça o download deste repositório.
-2. Abra o Chrome e acesse `chrome://extensions/`.
-3. Ative o **"Modo do desenvolvedor"** no canto superior direito.
-4. Clique em **"Carregar sem compactação"** e selecione a pasta do projeto.
