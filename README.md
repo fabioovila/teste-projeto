@@ -1,4 +1,4 @@
-# <img src="RL_logo.png" height="40" align="center"> 🔖 # Save For Later - Extensão para o Chrome 
+# <img src="RL_logo.png" height="40" align="center"> Read Later - Extensão para o Chrome 
 ### CS50 Final Project
 
 Um gerenciador de links minimalista inspirado na função "Assistir mais tarde" do YouTube, desenvolvido como projeto de conclusão para o **CS50x, curso online de Harvard**.
